@@ -1,0 +1,20 @@
+{
+  "name": "githubsimulator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TIY-Charleston-Front-End-May2015/assignments",
+  "authors": [
+    "Shaun P Sullivan <shaun@fisheyesoup.com>"
+  ],
+  "description": "recreate a webpage",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
